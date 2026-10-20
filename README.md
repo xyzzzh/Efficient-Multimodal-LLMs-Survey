@@ -175,6 +175,7 @@ In the past year, Multimodal Large Language Models (MLLMs) have demonstrated rem
 - An image is worth 1/2 tokens after layer 2: Plug-and-play inference acceleration for large vision-language models. <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2403.06764)] 
 - Boosting multimodal large language models with visual tokens withdrawal for rapid inference. <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2405.05803)]
 - Dynamic-LLaVA: Efficient Multimodal Large Language Models via Dynamic Vision-language Context Sparsification. <ins>ICLR, 2025</ins> [[Paper](https://arxiv.org/abs/2412.00876)]
+- Jag: Direct Box Prediction for Efficient Visual Grounding. <ins>arXiv, 2026</ins> [[Paper](https://arxiv.org/abs/2610.13239)] [[Code](https://github.com/xyzzzh/Jag)] Predicts a continuous bounding box in one multimodal forward pass without autoregressive coordinate generation.
 
 
 
